@@ -1,2 +1,2 @@
 # Coursea
-Este repositorio es usado con fines academiscos.
+Este repositorio es usado con fines academicos
